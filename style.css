@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+.page-header {
+    background-color: blue;
+    padding: 1.3rem;
+    align-items: center;
+    text-align: center;
+}
+.titulo {
+    color: black;
+    align-self: center;
+    margin-left: 1.2rem;
+    font-size: 2.5rem;
+    text-align: center;
+}
+main {
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+body {
+    background: radial-gradient(#4b76eb, #4bb8eb, #4bebde);
+}
+.introducao {
+    margin-top: 1%;
+}
+.funcao {
+    margin-top: 5%;
+}
+.intervalos {
+    margin-top: 5%;
+}
+.funcao-composta {
+    margin-top: 5%;
+}
+.funcao-continua {
+    margin-top: 5%;
+}
+.funcao-exponencial {
+    margin-top: 5%;
+}
+.limites {
+    margin-top: 5%;
+}
+.laterais-unicidade {
+    margin-top: 5%;
+}
+.derivadas {
+    margin-top: 5%;
+}
+.regras-derivadas {
+    margin-top: 5%;
+}
+.integrais {
+    margin-top: 5%;
+}
